@@ -54,4 +54,4 @@ The system predicts whether a person is:
 Mediboina Ramya sri
 
 ## 🔗 GitHub Repository
-(Add your link here after creating repo)
+(https://github.com/mediboinaramyasri072005/Diabetes-Prediction-AI)
